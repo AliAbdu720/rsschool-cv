@@ -1,0 +1,93 @@
+* {
+    padding: 0;
+  }
+   
+  body {
+    font: 16px 'Roboto';
+  }
+   
+  .conteiner {
+    width: 620px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+   
+  .header {
+    padding: 20px 0;
+  }
+   
+  .header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+   
+  .photo,
+  .author {
+    display: inline-block;
+    text-align: center;
+  }
+   
+  .author {
+    margin-left: 15px;
+    vertical-align: top;
+  }
+   
+  .infobox span {
+    color: #95a5a6
+  }
+   
+   
+  /* задаем свойства заголовку */
+ h2 {
+    font-style: italic;
+    text-align: center;
+    color: #2c3e50;
+  }
+  
+   
+  /* задаем свойства горизонтальной линии */
+   
+  hr {
+    border: none;
+    color: #eee;
+    background-color: #eee;
+    height: 1px;
+  }
+   
+   
+  /* задаем свойства тексту */
+   
+  p {
+    text-align: left;
+    color: #34495e;
+  }
+
+  p1 {
+    text-align: left;
+    color: #34495e;
+    font-weight: bolder;
+    text-decoration:underline
+  }
+
+
+  a {
+    text-decoration: none;
+    color: #3498db;
+  }
+   
+  li {
+    margin: 10px 0;
+    list-style-type: none;
+  }
+   
+  img {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 0.5px;
+  }
+   
+  .contacts {
+    text-align: right;
+    
+  }
