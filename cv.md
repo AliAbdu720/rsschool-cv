@@ -39,25 +39,29 @@ Head Specialist, Ministry of Economy, Republic of Uzbekistan
 October 2006 – March 2012.
 
 Senior researcher of Institute of Forecasting and Macroeconomic Research under the Cabinet of Ministers of the Republic of Uzbekistan on Project of structural reformation and diversification of economy, attraction of investment
+
 ## TRAININGS
 
 September 2019.
 
 Project Management in Oil & Gas Industry, London
 
-March- April 2010.
+March - April 2010.
 
 Ministry Economy Republic of Uzbekistan on department of Construction industries development. Tashkent, Uzbekistan.
 
-January –March 2009.
+January – March 2009.
 
 Specialized Courses English and Foreign Languages University awarded certificate, India, Hyderabad
 
 August – October 2007.
 
 Korean Education Center awarded certificate. Tashkent, Uzbekistan.
+
 ## LANGUAGES
+
 English –excellent, Russian – proficient, Uzbek – native, Korean – good.
 
 ## CONTACTS
 alisher720@gmail.com
++998997892265
